@@ -1,0 +1,13 @@
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.exe
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.deps.json
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.runtimeconfig.json
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.runtimeconfig.dev.json
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.dll
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\bin\Debug\netcoreapp3.1\Pedido.pdb
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.csprojAssemblyReference.cache
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.csproj.CoreCompileInputs.cache
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfoInputs.cache
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.AssemblyInfo.cs
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.dll
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.pdb
+C:\Users\Breno\Documents\Projetos\Pedido\Pedido\obj\Debug\netcoreapp3.1\Pedido.genruntimeconfig.cache
